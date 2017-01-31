@@ -14,3 +14,7 @@ https://kivy.org/docs/installation/installation-linux.html#ubuntu-11-10-or-newer
 
 ## Getting Started
 https://kivy.org/docs/gettingstarted/
+
+## Misc
+Kivy folder: /usr/lib/python2.7/dist-packages/kivy
+Kivy examples: /usr/share/kivi-examples/
