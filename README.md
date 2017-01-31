@@ -17,4 +17,5 @@ https://kivy.org/docs/gettingstarted/
 
 ## Misc
 Kivy folder: /usr/lib/python2.7/dist-packages/kivy
+
 Kivy examples: /usr/share/kivi-examples/
