@@ -1,0 +1,16 @@
+#:kivy 1.0
+
+<HelloCameraOpenCVLayout>:
+    orientation: 'vertical'
+    Image:
+        id: img1
+    ToggleButton:
+        text: 'Play'
+        on_press: root.play()
+        size_hint_y: None
+        height: '48dp'
+    Button:
+        text: 'Capture'
+        size_hint_y: None
+        height: '48dp'
+        on_press: root.play()
