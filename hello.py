@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import kivy
-kivy.require('1.0.7')
 
 from kivy.app import App
 from kivy.uix.button import Button
